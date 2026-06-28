@@ -9,7 +9,7 @@
 ### 🛠️ Technical Skills
 - **Languages**: Python, Java, C, SQL , Php ,Kotlin .
 - **Frameworks**: Django, DRF , Laravel , Android Studio .
-- **Databases**: SQLite, MySQL.
+- **Databases**: SQLite, MySQL, Firebase.
 - **Tools**: Git, GitHub, Linux, Android Studio
 - **Concepts**: OOP, Data Structures, Algorithms, DBMS
 
