@@ -60,7 +60,7 @@ const khadidja = {
 
 </div>
 
-<p align="center"><sub>💡 Swap the links above for the actual repo URLs so visitors land on the project itself, not your profile.</sub></p>
+
 
 <br/>
 
