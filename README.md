@@ -68,12 +68,12 @@ const khadidja = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=khadidja90&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadidja90&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/khadidja90/khadidja90/main/metrics.stats.svg" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/khadidja90/khadidja90/main/metrics.languages.svg" alt="Top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadidja90&theme=tokyonight&hide_border=true" alt="streak stats" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=khadidja90&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+<img src="https://raw.githubusercontent.com/khadidja90/khadidja90/main/metrics.achievements.svg" alt="Achievements" />
 
 </div>
 
