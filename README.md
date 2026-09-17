@@ -1,22 +1,39 @@
-<h1 align="center">Hi there, I'm Khadidja Djaoud 👋</h1>
+<h1 align="center">Hi, I'm Khadidja Djaoud 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineering+%7C+Backend+Development;Databases+%7C+Computer+Vision;Master's+Student+at+USTHB+%F0%9F%87%A9%F0%9F%87%BF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Software+Engineering+%7C+Backend+Development;Databases+%7C+Computer+Vision;Master's+Student+at+USTHB+%F0%9F%87%A9%F0%9F%87%BF;Turning+class+projects+into+real+products+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓-USTHB%20%E2%80%93%20Algeria-2E9EF7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Computer%20Vision-orange?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=khadidja90&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khadidja-djaoud-2926273b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dkjaoudkhadidja22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/khadidja90"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 Master's student in **Computer Science** at **USTHB – Algeria**
-- 💻 Interested in **Software Engineering, Databases, Backend Development & Computer Vision**
-- 📚 Currently learning **Computer Vision**
-- ⚡ Fun fact: I like turning class projects into things people can actually use
+```txt
+const khadidja = {
+    role: "Master's Student in Computer Science @ USTHB",
+    interests: ["Backend Development", "Databases", "Computer Vision"],
+    currentlyLearning: "Computer Vision",
+    funFact: "I like turning class projects into things people can actually use"
+};
+```
+
+- 🔭 I'm currently building small-scale backend & mobile projects to sharpen real-world skills
+- 🌱 I'm currently learning **Computer Vision**
+- 👯 I'm open to collaborating on **backend, database, or CV-related projects**
+- 💬 Ask me about **Django, Laravel, or Android/Kotlin development**
+- 📫 Reach me at **dkjaoudkhadidja22@gmail.com**
 
 ---
 
@@ -53,7 +70,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
-**Concepts:** OOP · Data Structures · Algorithms · DBMS
+**Concepts:** OOP · Data Structures & Algorithms · DBMS Design
 
 ---
 
@@ -65,7 +82,7 @@
 | 🤳 [Mini Social Media App](https://github.com/khadidja90) | A lightweight social app with real-time features | `Kotlin` · `Firebase` |
 | 🏨 [Booking Management System](https://github.com/khadidja90) | A system to manage reservations, rooms, and bookings | `Laravel` |
 
-> Replace the links above with the actual repo URLs once you drop this into your profile repo.
+> 💡 Swap the links above for the actual repo URLs (e.g. `github.com/khadidja90/mini-games`) so visitors land on the project itself, not your profile.
 
 ---
 
@@ -80,6 +97,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadidja90&hide_border=true" alt="streak stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khadidja90&theme=flat&no-frame=true&row=1&column=6" alt="trophies" />
+</p>
+
 ---
 
 ### 📫 Let's Connect
@@ -90,4 +111,4 @@
   <a href="https://github.com/khadidja90"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/khadidja90">khadidja90</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/khadidja90">khadidja90</a> — thanks for stopping by!</i></p>
