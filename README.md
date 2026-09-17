@@ -68,12 +68,12 @@ const khadidja = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/khadidja90/khadidja90/main/metrics.stats.svg" alt="GitHub stats" />
-<img src="https://raw.githubusercontent.com/khadidja90/khadidja90/main/metrics.languages.svg" alt="Top languages" />
+
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadidja90&theme=tokyonight&hide_border=true" alt="streak stats" />
 
-<img src="https://raw.githubusercontent.com/khadidja90/khadidja90/main/metrics.achievements.svg" alt="Achievements" />
+
 
 </div>
 
