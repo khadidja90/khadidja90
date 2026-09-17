@@ -61,9 +61,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🕹️ [Mini Games](https://github.com/khadidja-djaoud) | A collection of small Python games built for fun and practice | `Python` |
-| 🤳 [Mini Social Media App](https://github.com/khadidja-djaoud) | A lightweight social app with real-time features | `Kotlin` · `Firebase` |
-| 🏨 [Booking Management System](https://github.com/khadidja-djaoud) | A system to manage reservations, rooms, and bookings | `Laravel` |
+| 🕹️ [Mini Games](https://github.com/khadidja90) | A collection of small Python games built for fun and practice | `Python` |
+| 🤳 [Mini Social Media App](https://github.com/khadidja90) | A lightweight social app with real-time features | `Kotlin` · `Firebase` |
+| 🏨 [Booking Management System](https://github.com/khadidja90) | A system to manage reservations, rooms, and bookings | `Laravel` |
 
 > Replace the links above with the actual repo URLs once you drop this into your profile repo.
 
@@ -72,12 +72,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khadidja-djaoud&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadidja-djaoud&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khadidja90&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadidja90&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadidja-djaoud&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadidja90&hide_border=true" alt="streak stats" />
 </p>
 
 ---
@@ -89,5 +89,5 @@
   <a href="mailto:dkjaoudkhadidja22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/khadidja90"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
 <p align="center"><i>⭐️ From <a href="https://github.com/khadidja90">khadidja90</a></i></p>
- 
