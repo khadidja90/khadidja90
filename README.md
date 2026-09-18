@@ -81,7 +81,7 @@ const khadidja = {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadidja90&layout=compact&langs_count=8&bg_color=0F1C2E&title_color=7FD4F0&text_color=A8DCF0&icon_color=41708F&hide_border=true" alt="top languages" />
+
 
 </div>
 
