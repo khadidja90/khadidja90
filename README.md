@@ -1,42 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1C2E,50:23405C,100:41708F&height=230&section=header&text=Hi,%20I'm%20Khadidja&fontSize=44&fontColor=E8F4FB&animation=fadeIn&fontAlignY=34&desc=Software%20Engineering%20%C2%B7%20Backend%20%C2%B7%20Computer%20Vision&descAlignY=54&descSize=17&descColor=A8DCF0" width="100%"/>
+<img src="assets/cats-header.png" width="100%" alt="Pixel night city with two black cats" />
 
 <a href="https://github.com/khadidja90">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3500&pause=1200&color=7FD4F0&center=true&vCenter=true&width=620&height=45&lines=night+owl+%7C+backend+dev;two+black+cats+%7C+one+skyline;building+small+things+that+actually+run;currently+learning+computer+vision" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3500&pause=1200&color=7FD4F0&center=true&vCenter=true&width=640&height=42&lines=master's+student+%40+usthb;backend+%C2%B7+databases+%C2%B7+computer+vision;building+small+things+that+actually+run" alt="tagline" />
 </a>
-
-<br/>
 
 <img src="https://img.shields.io/badge/🎓-USTHB%20%E2%80%93%20Algeria-1B2A3A?style=for-the-badge&labelColor=0F1C2E" />
 <img src="https://img.shields.io/badge/Focus-Computer%20Vision-2E4A63?style=for-the-badge&labelColor=0F1C2E" />
 <img src="https://img.shields.io/badge/Based%20in-Algiers-41708F?style=for-the-badge&labelColor=0F1C2E" />
-<img src="https://img.shields.io/badge/🐈‍⬛-night%20owl-0F1C2E?style=for-the-badge&labelColor=0F1C2E" />
-
-<br/><br/>
 
 <a href="https://www.linkedin.com/in/khadidja-djaoud-2926273b6/"><img src="https://img.shields.io/badge/LinkedIn-1B2A3A?style=flat-square&logo=linkedin&logoColor=7FD4F0"/></a>
 <a href="mailto:dkjaoudkhadidja22@gmail.com"><img src="https://img.shields.io/badge/Email-1B2A3A?style=flat-square&logo=gmail&logoColor=7FD4F0"/></a>
 <a href="https://github.com/khadidja90"><img src="https://img.shields.io/badge/GitHub-1B2A3A?style=flat-square&logo=github&logoColor=7FD4F0"/></a>
 
 </div>
-
-<br/>
-
-```
-                                ██        ██
-                                ███      ███
-                                ████    ████
-      █     █                   ████████████
-      ██   ██                  ██████████████
-      ███████                  ██████████████
-     █████████                 ██████████████
-     █████████  ▄▄             ██████████████  ▄▄▄
-     ███████████               █████████████████
-  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
-
-<p align="center"><sub><i>two cats, one skyline, a lot of late commits</i></sub></p>
 
 <br/>
 
@@ -101,8 +79,6 @@ const khadidja = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:41708F,50:23405C,100:0F1C2E&height=130&section=footer" width="100%"/>
+<img src="assets/cats-footer.png" width="100%" alt="Two cats and a skyline" />
 
-<p align="center">🐾&nbsp;&nbsp;🐾&nbsp;&nbsp;🐾</p>
-
-<p align="center"><sub><i>⭐️ From <a href="https://github.com/khadidja90">khadidja90</a> 🐈‍⬛ — thanks for stopping by, night owl.</i></sub></p>
+<p align="center"><sub><i>⭐️ From <a href="https://github.com/khadidja90">khadidja90</a> — thanks for stopping by, night owl.</i></sub></p>
