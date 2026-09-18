@@ -4,9 +4,9 @@
 
 <br/>
 
-<img src="assets/title-plaque.png" height="70" alt="Hi, I'm Khadidja" />
+# Hi, I'm Khadidja 👋 🐈‍⬛
 
-<br/><br/>
+✦&nbsp;&nbsp;·&nbsp;&nbsp;🌙&nbsp;&nbsp;·&nbsp;&nbsp;✦
 
 <a href="https://github.com/khadidja90">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3500&pause=1200&color=7FD4F0&center=true&vCenter=true&width=640&height=38&lines=master's+student+%40+usthb;backend+%C2%B7+databases+%C2%B7+computer+vision;building+small+things+that+actually+run" alt="tagline" />
