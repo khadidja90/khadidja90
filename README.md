@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/cats-header.png" width="100%" alt="Pixel night city with two black cats" />
+<img src="assets/cats-header.gif" width="100%" alt="Pixel night city with two black cats" />
 
 <a href="https://github.com/khadidja90">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3500&pause=1200&color=7FD4F0&center=true&vCenter=true&width=640&height=42&lines=master's+student+%40+usthb;backend+%C2%B7+databases+%C2%B7+computer+vision;building+small+things+that+actually+run" alt="tagline" />
@@ -79,6 +79,6 @@ const khadidja = {
 
 <br/>
 
-<img src="assets/cats-footer.png" width="100%" alt="Two cats and a skyline" />
+<img src="assets/cats-footer.gif" width="100%" alt="Two cats and a skyline" />
 
 <p align="center"><sub><i>⭐️ From <a href="https://github.com/khadidja90">khadidja90</a> — thanks for stopping by, night owl.</i></sub></p>
