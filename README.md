@@ -4,13 +4,15 @@
 
 <br/>
 
-# Hi, I'm Khadidja 👋 🐈‍⬛
+<h1 align="center">Hi, I'm Khadidja 👋 </h1>
 
-✦&nbsp;&nbsp;·&nbsp;&nbsp;🌙&nbsp;&nbsp;·&nbsp;&nbsp;✦
+<p align="center">✦&nbsp;&nbsp;·&nbsp;&nbsp;🌙&nbsp;&nbsp;·&nbsp;&nbsp;✦</p>
 
+<p align="center">
 <a href="https://github.com/khadidja90">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3500&pause=1200&color=7FD4F0&center=true&vCenter=true&width=640&height=38&lines=master's+student+%40+usthb;backend+%C2%B7+databases+%C2%B7+computer+vision;building+small+things+that+actually+run" alt="tagline" />
 </a>
+</p>
 
 <img src="https://img.shields.io/badge/🎓-USTHB%20%E2%80%93%20Algeria-1B2A3A?style=for-the-badge&labelColor=0F1C2E" />
 <img src="https://img.shields.io/badge/Focus-Computer%20Vision-2E4A63?style=for-the-badge&labelColor=0F1C2E" />
@@ -24,7 +26,7 @@
 
 <br/>
 
-<h3 align="center">🐈‍⬛ About Me</h3>
+<h3 align="center"> About Me</h3>
 
 ```js
 const khadidja = {
@@ -37,7 +39,7 @@ const khadidja = {
 
 <div align="center">
 
-🔭 Building small-scale backend & mobile projects to sharpen real-world skills&nbsp; · &nbsp;🌱 Learning **Computer Vision**&nbsp; · &nbsp;👯 Open to collaborate on **backend / database / CV** projects
+🔭 Building small-scale backend & mobile projects to sharpen real-world skills&nbsp; · &nbsp;🌱 Learning **Computer Vision**&nbsp; · &nbsp; Open to collaborate on **backend / database / CV** projects
 
 </div>
 
@@ -87,4 +89,4 @@ const khadidja = {
 
 <img src="assets/cats-footer.gif" width="100%" alt="Two cats and a skyline" />
 
-<p align="center"><sub><i>⭐️ From <a href="https://github.com/khadidja90">khadidja90</a> — thanks for stopping by, night owl.</i></sub></p>
+<p align="center"><sub><i>⭐️ From <a href="https://github.com/khadidja90">khadidja90</a> — thanks for stopping by.</i></sub></p>
