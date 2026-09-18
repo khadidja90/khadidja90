@@ -2,8 +2,14 @@
 
 <img src="assets/cats-header.gif" width="100%" alt="Pixel night city with two black cats" />
 
+<br/>
+
+<img src="assets/title-plaque.png" height="70" alt="Hi, I'm Khadidja" />
+
+<br/><br/>
+
 <a href="https://github.com/khadidja90">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3500&pause=1200&color=7FD4F0&center=true&vCenter=true&width=640&height=42&lines=master's+student+%40+usthb;backend+%C2%B7+databases+%C2%B7+computer+vision;building+small+things+that+actually+run" alt="tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3500&pause=1200&color=7FD4F0&center=true&vCenter=true&width=640&height=38&lines=master's+student+%40+usthb;backend+%C2%B7+databases+%C2%B7+computer+vision;building+small+things+that+actually+run" alt="tagline" />
 </a>
 
 <img src="https://img.shields.io/badge/🎓-USTHB%20%E2%80%93%20Algeria-1B2A3A?style=for-the-badge&labelColor=0F1C2E" />
